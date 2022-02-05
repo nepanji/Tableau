@@ -1,4 +1,5 @@
 # Tableau - Citi Bike Annual Snapshot
+
 ## Overview
 In this assignment, I was given the task of generating a dashboard report for city officials looking to publicize
 and improve the city bike sharing program. The set of data reports will be built from the New York Citi Bike
@@ -47,5 +48,10 @@ Least Annual Usage by Gender and Age Group:
     *  Female: 19-25
     *  Male: 66 and up
 
-### Step 4: Submission
- 
+### Step 4: Submission (Tableau Story)
+
+![Citi Bike Story 1](https://user-images.githubusercontent.com/89491352/152634755-096fdebe-0997-4bb8-ac12-80dc55b38e1e.png)
+![Citi Bike Story 2](https://user-images.githubusercontent.com/89491352/152634756-2982ea4d-2c8d-4cf9-b0e6-419103d238d6.png)
+![Citi Bike Story 3](https://user-images.githubusercontent.com/89491352/152634760-aaabce99-9db7-40c9-8a07-5af574369a84.png)
+![Citi Bike Story 4](https://user-images.githubusercontent.com/89491352/152634768-8cbf1020-f316-4810-8c39-310587eb3a8d.png)
+![Citi Bike Story 5](https://user-images.githubusercontent.com/89491352/152634773-2ce9c684-94dd-4628-9755-aaab6a25ceb7.png)
